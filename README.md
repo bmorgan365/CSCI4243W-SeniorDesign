@@ -1,8 +1,8 @@
 # CSCI4243W-SeniorDesign
 AirBnB - but smaller, and not for houses
 ### Contributors
-Brian Morgan
-Ahmet Yilmaz
+Ahmet Yilmaz, 
+Brian Morgan, 
 Jaeseok Choi
 
 ## Description
